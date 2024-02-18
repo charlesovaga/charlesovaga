@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charles Ovaga
 - 👀 I’m interested in both Software and Web Applications
-- 🌱 I’m currently learning HTML, CSS, JAVASRCIPT, REACT, AND BOOTSTRAP...
+- 🌱 I’m currently learning HTML, CSS, JAVASRCIPT, REACT, AND TAILWIND...
 - 💞️ I’m looking to collaborate on Learning new ideas and developing more Projects
 - 📫 YOU CAN CONTACT ME @Ovagacharles@gmail.com
 
